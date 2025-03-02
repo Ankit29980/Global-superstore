@@ -6,6 +6,9 @@ This project analyzes sales, profit, customer behavior,
 and product performance using Power BI. The goal is 
 to find key insights that help improve business decisions.
 
+## Dashboard link
+https://app.powerbi.com/view?r=eyJrIjoiYjNlMjI3NTItM2Q2OC00MTg4LWE5ZWMtNDczZWQzYjQ5ZTQxIiwidCI6Ijg2MDA1ZGZiLWEyZjEtNDdiYy1hNTVkLTkwYmI1MzI0Y2NjYSJ9
+
 ## Problem Statement
 The company sells products in different regions, but faces some challenges:
 
