@@ -7,7 +7,7 @@ and product performance using Power BI. The goal is
 to find key insights that help improve business decisions.
 
 ## Dashboard link
-https://app.powerbi.com/view?r=eyJrIjoiYjNlMjI3NTItM2Q2OC00MTg4LWE5ZWMtNDczZWQzYjQ5ZTQxIiwidCI6Ijg2MDA1ZGZiLWEyZjEtNDdiYy1hNTVkLTkwYmI1MzI0Y2NjYSJ9
+https://app.powerbi.com/view?r=eyJrIjoiMjFkZWZiMGYtMThlMC00YTkyLWFiMzYtY2IxNzU2NDZhOTJhIiwidCI6IjVlYTJmMzMzLTk2MDAtNGI1NS1iYWU1LTg0ZGVhODgyMDM5OSJ9
 
 ## Problem Statement
 The company sells products in different regions, but faces some challenges:
